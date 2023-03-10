@@ -1,0 +1,5 @@
+*.fac.tum
+.fac
+
+*cards/*.png
+pieces/*.png
