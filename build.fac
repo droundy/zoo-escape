@@ -1,2 +1,2 @@
-| python3 configure.py > .fac
+* python3 configure.py > .fac
 > .fac
