@@ -2,5 +2,6 @@
 .fac
 
 *.gif
+board/*.png
 *cards/*.png
 pieces/*.png

@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="map.svg">
+   sodipodi:docname="board.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -64,98 +64,108 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/cheetah-enclosure.png"
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/cheetah-enclosure.png"
        xlink:href="cheetah-enclosure.png"
-       y="3000"
-       x="3000"
-       id="image926"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="600"
        height="600"
-       width="600" />
-    <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/restroom.png"
-       xlink:href="restroom.png"
-       y="3000"
-       x="600"
-       id="image893"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="599.99994"
-       width="600" />
-    <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/zookeeper-1-start.png"
-       xlink:href="zookeeper-1-start.png"
-       width="600"
-       height="600.00006"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image994"
-       x="1800"
-       y="2400" />
-    <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/zookeeper-2-start.png"
-       xlink:href="zookeeper-2-start.png"
-       width="600"
-       height="599.99994"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image1058"
-       x="1200"
-       y="2400" />
-    <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/zookeeper-4-start.png"
-       xlink:href="zookeeper-4-start.png"
-       width="600"
-       height="599.99994"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image1202"
+       id="image926"
        x="3000"
-       y="2400" />
+       y="3000" />
     <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/zookeeper-3-start.png"
-       xlink:href="zookeeper-3-start.png"
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/restroom.png"
+       xlink:href="restroom.png"
        width="600"
        height="599.99994"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image1266"
+       id="image893"
+       x="600"
+       y="3000" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-1-start.png"
+       xlink:href="zookeeper-1-start.png"
+       y="2400"
+       x="1800"
+       id="image994"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="600.00006"
+       width="600" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-2-start.png"
+       xlink:href="zookeeper-2-start.png"
+       y="2400"
+       x="1200"
+       id="image1058"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="599.99994"
+       width="600" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-4-start.png"
+       xlink:href="zookeeper-4-start.png"
+       y="2400"
+       x="3000"
+       id="image1202"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="599.99994"
+       width="600" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-3-start.png"
+       xlink:href="zookeeper-3-start.png"
+       y="2400"
        x="2400"
-       y="2400" />
+       id="image1266"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="599.99994"
+       width="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:80, 80;stroke-dashoffset:0;stroke-opacity:1"
        d="M -9.9998579e-7,-3.2389107e-5 H 4799.9998 V 599.99996 H -9.9998579e-7 V 1200 H 4799.9998 v 600 H -9.9998579e-7 v 599.9999 H 4799.9998 V 3000 H -9.9998579e-7 v 599.9998 H 4799.9998 v 600.0001 H -9.9998579e-7 v 599.9999 H 4799.9998 V -3.2389107e-5 h -599.9999 c 0,0 0,4799.999832389107 0,4799.999832389107 H 3599.9998 V -3.2389107e-5 H 3000 c 0,0 0,4799.999832389107 0,4799.999832389107 H 2399.9999 V -3.2389107e-5 H 1800 V 4799.9998 H 1200 V -3.2389107e-5 H 599.99999 V 4799.9998 H -9.9998579e-7 Z"
        id="path859" />
     <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/seals.png"
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/seals.png"
        xlink:href="seals.png"
-       y="3600"
-       x="1200"
+       width="599.99994"
+       height="599.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
        id="image898"
+       x="1200"
+       y="3600" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/restroom.png"
+       xlink:href="restroom.png"
+       width="600"
+       height="599.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image902"
+       x="3600"
+       y="1200" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/slide.png"
+       xlink:href="slide.png"
+       y="1200"
+       x="1800"
+       id="image900"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="599.99994"
+       height="600"
        width="599.99994" />
     <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/restroom.png"
-       xlink:href="restroom.png"
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/sandbox.png"
+       xlink:href="sandbox.png"
        y="1200"
-       x="3600"
-       id="image902"
+       x="1200"
+       id="image919"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="599.99994"
-       width="600" />
-    <image
-       sodipodi:absref="/home/droundy/src/zoo-escape/board-tiles/slide.png"
-       xlink:href="slide.png"
-       width="599.99994"
        height="600"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image900"
-       x="1800"
-       y="1200" />
+       width="599.99994" />
   </g>
 </svg>

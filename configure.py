@@ -10,7 +10,7 @@ for json in glob.glob("*-cards/*.json"):
     print(f"< {base}.gif")
     print(f"> {base}.png")
 
-for json in glob.glob("board-tiles/*.json"):
+for json in glob.glob("board/*.json"):
     base = json[:-5]
     print(f"| color-splotch --mini-deck --gif --path {base}.json")
     print(f"< {base}.json")
