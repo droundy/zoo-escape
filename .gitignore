@@ -1,5 +1,6 @@
 *.fac.tum
 .fac
 
+*.gif
 *cards/*.png
 pieces/*.png
