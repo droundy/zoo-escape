@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4875mm"
+   height="4875mm"
+   viewBox="0 0 4875 4875"
+   version="1.1"
+   id="svg848"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="board6x6.svg">
+  <defs
+     id="defs842" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.046186752"
+     inkscape:cx="9212.5984"
+     inkscape:cy="9212.5984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1533"
+     inkscape:window-height="1030"
+     inkscape:window-x="50"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1411"
+       originx="37.499999"
+       originy="37.499999"
+       spacingx="799.99998"
+       spacingy="799.99998"
+       empspacing="1"
+       units="mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10.00000028;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:120.00000334,120.00000334;stroke-dashoffset:0"
+       d="M 37.499999,37.499999 H 4837.4998 V 837.49998 H 37.499999 V 1637.4999 H 4837.4998 v 800 H 37.499999 v 799.9999 H 4837.4998 v 800 H 37.499999 v 800 H 4837.4998 V 37.499999 h -800 V 4837.4998 h -800 V 37.499999 H 2437.4999 V 4837.4998 h -800 V 37.499999 H 837.49998 V 4837.4998 H 37.499999 Z"
+       id="path1431" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/sandbox-big.png"
+       xlink:href="sandbox-big.png"
+       width="799.99994"
+       height="800"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image892"
+       x="1637.5"
+       y="837.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-1-start.png"
+       xlink:href="zookeeper-1-start.png"
+       width="800.00006"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image956"
+       x="1637.4999"
+       y="1637.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-2-start.png"
+       xlink:href="zookeeper-2-start.png"
+       width="799.99994"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1020"
+       x="2437.5"
+       y="1637.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-3-start.png"
+       xlink:href="zookeeper-3-start.png"
+       width="799.99988"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1084"
+       x="3237.5"
+       y="1637.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-4-start.png"
+       xlink:href="zookeeper-4-start.png"
+       width="800"
+       height="800.00006"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1148"
+       x="837.49994"
+       y="1637.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/slide.png"
+       xlink:href="slide.png"
+       width="799.99994"
+       height="800"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1212"
+       x="2437.5"
+       y="837.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/cheetah-enclosure.png"
+       xlink:href="cheetah-enclosure.png"
+       width="800"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1276"
+       x="837.5"
+       y="3237.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/seals.png"
+       xlink:href="seals.png"
+       width="799.99994"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1340"
+       x="2437.5"
+       y="3237.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/restroom.png"
+       xlink:href="restroom.png"
+       width="799.99988"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1404"
+       x="3237.5"
+       y="837.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/carousel.png"
+       xlink:href="carousel.png"
+       y="837.5"
+       x="837.5"
+       id="image901"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99994"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="3237.5"
+       x="1637.5"
+       id="image965"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="3237.5"
+       x="-762.49994"
+       id="image969"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="2437.5"
+       x="-762.49994"
+       id="image971"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="1637.5001"
+       x="-762.5"
+       id="image973"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="837.50006"
+       x="-762.5"
+       id="image975"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="37.500099"
+       x="-762.5"
+       id="image977"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.49988"
+       x="-762.49994"
+       id="image979"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.49988"
+       x="37.500038"
+       id="image981"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.5"
+       x="837.5"
+       id="image983"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.49988"
+       x="1637.5"
+       id="image985"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.5"
+       x="2437.5"
+       id="image987"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.5"
+       x="3237.5"
+       id="image989"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.49988"
+       x="4037.5"
+       id="image991"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="-762.5"
+       x="4837.5"
+       id="image993"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="37.500099"
+       x="4837.5"
+       id="image995"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="837.50006"
+       x="4837.5"
+       id="image997"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="1637.5001"
+       x="4837.5"
+       id="image999"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="2437.5"
+       x="4837.5"
+       id="image1001"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="3237.5"
+       x="4837.5"
+       id="image1003"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4037.5"
+       x="4837.5"
+       id="image1005"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="4837.5"
+       id="image1007"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="4037.5"
+       id="image1009"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="3237.5"
+       id="image1011"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="2437.5"
+       id="image1013"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="1637.5"
+       id="image1015"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="837.5"
+       id="image1017"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="37.500038"
+       id="image1019"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4837.5"
+       x="-762.49994"
+       id="image1021"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tree-enclosure.png"
+       xlink:href="tree-enclosure.png"
+       y="4037.5"
+       x="-762.49994"
+       id="image1023"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/rose.png"
+       xlink:href="rose.png"
+       width="799.99988"
+       height="800"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image931"
+       x="4037.5"
+       y="37.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/aviary.png"
+       xlink:href="aviary.png"
+       y="4037.5"
+       x="837.5"
+       id="image932"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+  </g>
+</svg>

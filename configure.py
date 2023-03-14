@@ -16,7 +16,7 @@ for json in glob.glob("board/*.json"):
     print(f"< {base}.json")
     print(f"> {base}.gif")
     print(
-        f"| convert {base}.gif[0] -gravity center -extent 600x600 {base}.png")
+        f"| convert {base}.gif[0] -gravity center -extent 800x800 {base}.png")
     print(f"< {base}.gif")
     print(f"> {base}.png")
 
