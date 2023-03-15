@@ -1,6 +1,2 @@
 * python3 configure.py > .fac
 > .fac
-
-| inkscape -o board/board.png -C -w 4875 board/board.svg
-
-| inkscape -o board/board6x6.png -C -w 4875 board/board6x6.svg
