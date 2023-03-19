@@ -476,5 +476,85 @@
        preserveAspectRatio="none"
        height="799.99988"
        width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/picnic.png"
+       xlink:href="picnic.png"
+       width="800"
+       height="800"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image933"
+       x="2437.5"
+       y="37.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/slide-2.png"
+       xlink:href="slide-2.png"
+       y="37.5"
+       x="1637.5"
+       id="image934"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="800"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/mixies.png"
+       xlink:href="mixies.png"
+       width="800"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image935"
+       x="3237.5"
+       y="4037.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/bushy.png"
+       xlink:href="bushy.png"
+       y="3237.5"
+       x="37.5"
+       id="image936"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="800" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/grassy.png"
+       xlink:href="grassy.png"
+       y="3237.5"
+       x="4037.5"
+       id="image1000"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/soccer.png"
+       xlink:href="soccer.png"
+       width="799.99988"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image938"
+       x="4037.5"
+       y="837.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/drinking-fountain.png"
+       xlink:href="drinking-fountain.png"
+       width="800"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1002"
+       x="837.5"
+       y="37.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/picnic-with-parents.png"
+       xlink:href="picnic-with-parents.png"
+       y="837.5"
+       x="37.5"
+       id="image940"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99994"
+       width="800" />
   </g>
 </svg>
