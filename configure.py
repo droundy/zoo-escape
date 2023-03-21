@@ -33,7 +33,11 @@ for json in glob.glob("pieces/*.json"):
 
 inkscape_version = subprocess.check_output(['inkscape', '--version'])
 if b'0.92' in inkscape_version:
-    print('| inkscape -e board/board6x6.png -C -w 4875 board/board6x6.svg')
+    print('''
+| inkscape -e board/board6x6.png -C -w 4875 board/board6x6.svg
+
+| inkscape -e box.png -C -w 5850 board/box.svg
+''')
 else:
     print('''
 | inkscape -o board/board.png -C -w 4875 board/board.svg
