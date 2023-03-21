@@ -1,4 +1,5 @@
-import glob, subprocess
+import glob
+import subprocess
 
 for json in glob.glob("*-cards/*.json"):
     base = json[:-5]
@@ -38,4 +39,6 @@ else:
 | inkscape -o board/board.png -C -w 4875 board/board.svg
 
 | inkscape -o board/board6x6.png -C -w 4875 board/board6x6.svg
+
+| inkscape -o box.png -C -w 5850 board/box.svg
 ''')

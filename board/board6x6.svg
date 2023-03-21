@@ -26,14 +26,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.046186752"
      inkscape:cx="9212.5984"
-     inkscape:cy="9212.5984"
+     inkscape:cy="4016.3032"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1533"
      inkscape:window-height="1030"
-     inkscape:window-x="50"
+     inkscape:window-x="49"
      inkscape:window-y="27"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -62,10 +62,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:10.00000028;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:120.00000334,120.00000334;stroke-dashoffset:0"
-       d="M 37.499999,37.499999 H 4837.4998 V 837.49998 H 37.499999 V 1637.4999 H 4837.4998 v 800 H 37.499999 v 799.9999 H 4837.4998 v 800 H 37.499999 v 800 H 4837.4998 V 37.499999 h -800 V 4837.4998 h -800 V 37.499999 H 2437.4999 V 4837.4998 h -800 V 37.499999 H 837.49998 V 4837.4998 H 37.499999 Z"
-       id="path1431" />
     <image
        sodipodi:absref="/home/droundy/src/zoo-escape/board/sandbox-big.png"
        xlink:href="sandbox-big.png"
@@ -80,7 +76,7 @@
        sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-1-start.png"
        xlink:href="zookeeper-1-start.png"
        y="1637.5"
-       x="1637.4999"
+       x="37.499916"
        id="image956"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
@@ -90,7 +86,7 @@
        sodipodi:absref="/home/droundy/src/zoo-escape/board/zookeeper-2-start.png"
        xlink:href="zookeeper-2-start.png"
        y="1637.5"
-       x="2437.5"
+       x="4037.5"
        id="image1020"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
@@ -129,8 +125,8 @@
     <image
        sodipodi:absref="/home/droundy/src/zoo-escape/board/cheetah-enclosure.png"
        xlink:href="cheetah-enclosure.png"
-       y="3237.5"
-       x="837.5"
+       y="2437.5"
+       x="837.49994"
        id="image1276"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
@@ -559,12 +555,156 @@
     <image
        sodipodi:absref="/home/droundy/src/zoo-escape/board/tiger.png"
        xlink:href="tiger.png"
-       y="2437.5"
-       x="2437.5"
+       y="4037.5"
+       x="37.500038"
        id="image941"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="799.99994"
        width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/monkey-bars.png"
+       xlink:href="monkey-bars.png"
+       width="800"
+       height="800"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image119"
+       x="37.499977"
+       y="37.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/hopscotch.png"
+       xlink:href="hopscotch.png"
+       y="37.5"
+       x="3237.5"
+       id="image120"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="800"
+       width="800" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/restroom2.png"
+       xlink:href="restroom2.png"
+       width="799.99994"
+       height="800"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image121"
+       x="837.5"
+       y="3237.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/antelope.png"
+       xlink:href="antelope.png"
+       y="2437.5"
+       x="1637.5"
+       id="image122"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99994"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/wolf.png"
+       xlink:href="wolf.png"
+       width="799.99994"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image123"
+       x="2437.5"
+       y="2437.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/lemmings.png"
+       xlink:href="lemmings.png"
+       y="2437.5"
+       x="4037.5"
+       id="image124"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99994"
+       width="799.99988" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/trees.png"
+       xlink:href="trees.png"
+       width="800"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image125"
+       x="37.5"
+       y="2437.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/bushes.png"
+       xlink:href="bushes.png"
+       width="799.99988"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image189"
+       x="3237.5"
+       y="3237.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/puddles.png"
+       xlink:href="puddles.png"
+       y="4037.5"
+       x="1637.5"
+       id="image127"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99988"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/tickets.png"
+       xlink:href="tickets.png"
+       width="799.99988"
+       height="799.99994"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image128"
+       x="1637.5001"
+       y="1637.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/zoo.png"
+       xlink:href="zoo.png"
+       y="1637.5"
+       x="2437.5"
+       id="image129"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="799.99994"
+       width="799.99994" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/polarbear.png"
+       xlink:href="polarbear.png"
+       width="799.99994"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image130"
+       x="2437.5"
+       y="4037.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/bats.png"
+       xlink:href="bats.png"
+       width="799.99988"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image194"
+       x="4037.5"
+       y="4037.5" />
+    <image
+       sodipodi:absref="/home/droundy/src/zoo-escape/board/snacks.png"
+       xlink:href="snacks.png"
+       width="800"
+       height="799.99988"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image258"
+       x="3237.5"
+       y="2437.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10.00000028;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:120.00000334,120.00000334;stroke-dashoffset:0"
+       d="M 37.499999,37.499999 H 4837.4998 V 837.49998 H 37.499999 V 1637.4999 H 4837.4998 v 800 H 37.499999 v 799.9999 H 4837.4998 v 800 H 37.499999 v 800 H 4837.4998 V 37.499999 h -800 V 4837.4998 h -800 V 37.499999 H 2437.4999 V 4837.4998 h -800 V 37.499999 H 837.49998 V 4837.4998 H 37.499999 Z"
+       id="path1431" />
   </g>
 </svg>
