@@ -1,2 +1,13 @@
 * python3 configure.py > .fac
 > .fac
+
+| pdflatex rules.tex && pdflatex rules.tex
+> rules.pdf
+c .aux
+c .log
+
+# | convert -density 150 rules.pdf -quality 90 rules.png
+# < rules.pdf
+
+| gs -dSAFER -r600 -sDEVICE=pngalpha -o rules.png rules.pdf
+< rules.pdf

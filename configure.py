@@ -37,6 +37,12 @@ if b'0.92' in inkscape_version:
 | inkscape -e board/board6x6.png -C -w 4875 board/board6x6.svg
 
 | inkscape -e box.png -C -w 5850 board/box.svg
+
+| inkscape -e advertisement.png -C -w 216 advertisement.svg
+
+| inkscape -e backdrop.png -C -w 1600 backdrop.svg
+
+| inkscape -e logo.png -C -w 350 logo.svg
 ''')
 else:
     print('''
